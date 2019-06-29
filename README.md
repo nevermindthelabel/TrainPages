@@ -4,9 +4,11 @@
 
 See app displayed live on Github Pages [here](https://nevermindthelabel.github.io/Train-Scheduler/)
 
-In this project, you'll create a train schedule application that incorporates Firebase to host arrival and departure data. Your app will retrieve and manipulate this information with MomentJS. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
+This is a train schedule application that incorporates Firebase to host arrival and departure data. The app retrieves and manipulates user data with MomentJS. The app provides up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
 
-Using - HTML, [Bootstrap](https://getbootstrap.com), [jQuery](https://jquery.com/) to manipulate the DOM and [MomentJS](http://momentjs.com/) for the time logic. The data collected from user input is stored in a [Firebase Database](https://firebase.google.com/) and then pulled down to populate the table.
+***Technologies***
+
+Using - HTML, [Bootstrap](https://getbootstrap.com), [jQuery](https://jquery.com/) to manipulate the DOM and [MomentJS](http://momentjs.com/) for the time logic. The data collected from user input is stored in a [Firebase Database](https://firebase.google.com/) and then pulled in to populate the table.
 
 ![image](https://user-images.githubusercontent.com/10904004/52189936-eb9fc580-27f8-11e9-9f8d-c48f747a7bd3.png)
 
